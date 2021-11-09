@@ -1,0 +1,86 @@
+.body {
+    background-color: black;
+    padding-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.info {
+    width: 31%;
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
+
+.name {
+    color: white;
+    font-size: 35px;
+    text-shadow: 2px 2px rgb(182, 15, 15);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.contacts {
+    font-size: 19px;
+    margin-top: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.email {
+    margin-top: 10px;
+}
+
+.s {
+    margin-top: 15px;
+    width: 50px;
+    width: 50px;
+    margin-left: 5px;
+    margin-bottom: 20px;
+}
+
+.s:hover {
+    width: 55px;
+    width: 55px;
+}
+
+.second {
+    color: white;
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid rgb(166, 51, 44);
+    position: relative;
+    margin-left: 40%;
+    padding: 7px;
+}
+
+.m {
+    width: 30%;
+    float: right;
+}
+
+.muPic {
+    margin-top: 30px;
+    width: 100%;
+    height: 100%;
+    margin-left: -100%;
+}
+
+.musicButt {
+    width: 70%;
+    height: 100px;
+    float: right;
+    margin-top: 45%;
+    margin-right: 10%;
+    background-color: rgb(166, 51, 44);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 20px;
+}
+
+.musicButt:hover {
+    background-color: white;
+    color: rgb(166, 51, 44);
+}
